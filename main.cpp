@@ -197,7 +197,6 @@ int main()
     cout << "==================================" << endl;
 
     {
-        // 默认小于号
         skip_list<int, int> list;
         list.insert(1, 3);
         list.insert(1, 3);
